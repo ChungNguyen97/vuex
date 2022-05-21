@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# cài dotenv để sử dụng biến môi trường
+=> npm i --save-dev dotenv
